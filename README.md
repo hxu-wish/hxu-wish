@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👋 Hi, I’m @hxu(Hengli Xu)
+- 🔭 Previously I worked at 2345/Lufax/Coupang for 8 years; have a lot of stories
+- 🌱 I’m currently working on Buying Experience :: Client Infra :: Android
+- 📫 Reach me on slack @hxu, or email hxu@wish.com
+- 😄 Pronouns: Hen-li
+- ⚡ Fun fact: I like take photoes~
+
